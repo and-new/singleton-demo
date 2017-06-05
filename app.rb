@@ -1,7 +1,7 @@
 require './logger'
 
 #Logger.say_something
-Logger.instance.log_something 'bla bla!'
+Logger.instance.log_something 'bla bla!!!'
 #Logger.instance.log_something 'blabla2'
 #Logger.log_something 'wazzup'
 
